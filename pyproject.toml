@@ -1,0 +1,5 @@
+[project]
+dependencies = ["torch==1.13.1", "pytorch-fast-transformers"]
+
+[tool.uv.pip]
+no-build-isolation = true
