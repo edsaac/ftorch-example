@@ -1,2 +1,1 @@
 torch==1.13.1
-pytorch-fast-transformers --no-use-pep-517
